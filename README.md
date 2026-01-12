@@ -3,4 +3,5 @@ CombatLogRebuild is a lightweight Turtle WoW AddOn that restores a functional co
 
 my discord for feedback and bugs: https://discord.com/users/cusabo
 
-<img width="701" height="328" alt="image" src="https://github.com/user-attachments/assets/7002d0d9-a1f7-4d00-af40-b0d1286b9ae6" />
+<img width="678" height="307" alt="image" src="https://github.com/user-attachments/assets/950cdb07-a5c4-4454-8240-5a959a548779" />
+
