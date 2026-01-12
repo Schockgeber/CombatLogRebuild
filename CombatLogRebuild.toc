@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: CombatLogRebuild
+## Notes: Rebuilds broken combat damage log on Turtle WoW (DE client) and restores ShaguDPS compatibility by Rindshack @Ambershire
+## Author: Schockgeber / Rindshack
+## Version: 0.12
+## SavedVariables: CombatLogRebuildDB
+## OptionalDeps: ShaguDPS
+
+CombatLogRebuild.lua
